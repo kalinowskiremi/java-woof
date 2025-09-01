@@ -1,5 +1,5 @@
 ## java-woof
-
+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
 An intentionally vulnerable application, to test
 [Snyk's Runtime Monitoring](https://snyk.io/docs/runtime-protection/) offering.
 
